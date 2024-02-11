@@ -16,15 +16,35 @@
       "imageSrc": "skills/node.png"
     },
     {
-      "title": "GraphQL",
-      "imageSrc": "skills/graphql.png"
+      "title": "C",
+      "imageSrc": "skills/c.png"
     },
     {
-      "title": "MongoDB",
-      "imageSrc": "skills/mongodb.png"
+      "title": "C#",
+      "imageSrc": "skills/cSharp.png"
     },
     {
-      "title": "Figma",
-      "imageSrc": "skills/figma.png"
+      "title": "C++",
+      "imageSrc": "skills/cPlus.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/python.png"
+    },
+    {
+      "title": "Git",
+      "imageSrc": "skills/git.png"
+    },
+    {
+      "title": "Unity",
+      "imageSrc": "skills/unity.png"
+    },
+    {
+      "title": "R",
+      "imageSrc": "skills/r.png"
+    },
+    {
+      "title": "mySQL",
+      "imageSrc": "skills/mySQL.png"
     }
 ]

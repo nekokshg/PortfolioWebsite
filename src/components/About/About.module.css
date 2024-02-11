@@ -17,23 +17,26 @@
     font-weight: 700;
     letter-spacing: 1.75px;
     text-transform: uppercase;
+    margin-bottom: 37px;
 }
 
 .content {
     display: flex;
     flex-direction: row;
     align-items: center;
+    gap: 50px;
 }
 
 .aboutImage {
     width: 35%;
+    border-radius: 10px;
 }
 
 .aboutItems {
     color: var(--color-text);
     display: flex;
     flex-direction: column;
-    gap: 50px;
+    gap: 20px;
 }
 
 .aboutItem {
@@ -47,6 +50,7 @@
     background-size: 0 100%;
     background-repeat: no-repeat;
     transition: 0.4s;
+    gap: 25px;
 }
 
 .aboutItem:hover {
@@ -62,7 +66,15 @@
     font-size: 20px;
 }
 
-@media screen and (max-width:830px) {
+.aboutItemImg {
+    height: 60px;
+}
+
+.server {
+    height: 70px;
+}
+
+@media screen and (max-width:900px) {
     .container {
         background-color: transparent;
         padding-left: 0;

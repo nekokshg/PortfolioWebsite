@@ -1,26 +1,18 @@
 [
     {
-      "title": "Project A",
+      "title": "Chess Engine",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "skills": ["Python", "Pygame", "Git"],
+      "demo": "",
+      "source": "https://github.com/nekokshg/Chess"
     },
     {
-      "title": "Project B",
+      "title": "2D RPG Mystery Game",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    },
-    {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "skills": ["C#", "Unity", "Aseprite", "Git"],
+      "demo": "",
+      "source": "https://github.com/nekokshg/Game1"
     }
   ]

@@ -31,7 +31,7 @@
 }
 
 .description {
-    font-size: 30px;
+    font-size: 27px;
     font-family: var(--font-roboto);
     margin-bottom: 52px;
 }
@@ -70,6 +70,8 @@
 
 .heroImg {
     width: 50%;
+    margin-left: 10%;
+    margin-right: 10%;
     z-index: 1;
 
     /* add animation */
@@ -120,6 +122,10 @@
 }
 
 @media screen and (max-width: 830px){
+    .title {
+        margin-top: 15px;
+    }
+
     .container {
         flex-direction: column-reverse;
     }

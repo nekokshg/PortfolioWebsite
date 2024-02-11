@@ -7,7 +7,7 @@ export const Hero = () => {
     <section className={styles.container}>
         <div className={styles.content}>
             <h1 className={styles.title}>Hi, I'm Nicole</h1>
-            <p className={styles.description}>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit omnis rerum placeat deserunt culpa cupiditate nesciunt consequatur repellat, dolor earum adipisci repudiandae. Iusto aperiam officia aspernatur, exercitationem illo amet ab!</p>
+            <p className={styles.description}>I'm currently pursuing my Bachelor's in Computer Science at the University of Nevada - Las Vegas. In my free time, I enjoy working on both frontend and backend projects!</p>
             
             <div className={styles.btnContainer}>
                 <a className={styles.contactBtn} onClick={() => window.open("../../assets/NicoleKaneshigeResume.pdf")}>Download CV</a>
