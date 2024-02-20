@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './src/App.jsx'
+import App from './App.jsx'
 import './index.css'
 
 /*introduce the installed fonts into the project*/
