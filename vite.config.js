@@ -8,9 +8,10 @@ export default defineConfig({
       output: {
         entryFileNames: `assets/[name].js`,
         chunkFileNames: `assets/[name].js`,
-        assetFileNames: `assets/[name].[ext]`
+        assetFileNames: `assets/[name].[ext]`,
       }
-    }
+    },
+    assetsInlineLimit: "100", // 100b, set as your minimum file size
   },
   plugins: [react()],
   css: {
