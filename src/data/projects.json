@@ -2,7 +2,7 @@
     {
       "title": "Chess Engine",
       "imageSrc": "assets/chess.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "Developed a Python-based chess engine incorporating fundamental algorithms to enable strategic decision-making. Continuously enhancing its capabilities through ongoing research and refinement.",
       "skills": ["Python", "Pygame", "Git"],
       "demo": "",
       "source": "https://github.com/nekokshg/Chess"
@@ -10,7 +10,7 @@
     {
       "title": "2D RPG Mystery Game",
       "imageSrc": "assets/Mockup.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "Driving the development of a C++ Unity RPG mystery game, blending immersive storytelling and intricate gameplay mechanics. Focused on creating engaging narratives and optimizing performance for a captivating player experience.",
       "skills": ["C#", "Unity", "Aseprite", "Git"],
       "demo": "",
       "source": "https://github.com/nekokshg/Game1"
