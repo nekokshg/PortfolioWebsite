@@ -1,7 +1,7 @@
 [
     {
       "title": "Chess Engine",
-      "imageSrc": "projects/chess.png",
+      "imageSrc": "assets/chess.png",
       "description": "This is a project made to learn the latest languages by building an app.",
       "skills": ["Python", "Pygame", "Git"],
       "demo": "",
@@ -9,7 +9,7 @@
     },
     {
       "title": "2D RPG Mystery Game",
-      "imageSrc": "projects/Mockup.png",
+      "imageSrc": "assets/Mockup.png",
       "description": "This is a project made to learn the latest languages by building an app.",
       "skills": ["C#", "Unity", "Aseprite", "Git"],
       "demo": "",

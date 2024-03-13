@@ -1,50 +1,50 @@
 [
     {
       "title": "HTML",
-      "imageSrc": "skills/html.png"
+      "imageSrc": "assets/html.png"
     },
     {
       "title": "CSS",
-      "imageSrc": "skills/css.png"
+      "imageSrc": "assets/css.png"
     },
     {
       "title": "React",
-      "imageSrc": "skills/react.png"
+      "imageSrc": "assets/react.png"
     },
     {
       "title": "Node",
-      "imageSrc": "skills/node.png"
+      "imageSrc": "assets/node.png"
     },
     {
       "title": "C",
-      "imageSrc": "skills/c.png"
+      "imageSrc": "assets/c.png"
     },
     {
       "title": "C#",
-      "imageSrc": "skills/cSharp.png"
+      "imageSrc": "assets/cSharp.png"
     },
     {
       "title": "C++",
-      "imageSrc": "skills/cPlus.png"
+      "imageSrc": "assets/cPlus.png"
     },
     {
       "title": "Python",
-      "imageSrc": "skills/python.png"
+      "imageSrc": "assets/python.png"
     },
     {
       "title": "Git",
-      "imageSrc": "skills/git.png"
+      "imageSrc": "assets/git.png"
     },
     {
       "title": "Unity",
-      "imageSrc": "skills/unity.png"
+      "imageSrc": "assets/unity.png"
     },
     {
       "title": "R",
-      "imageSrc": "skills/r.png"
+      "imageSrc": "assets/r.png"
     },
     {
       "title": "mySQL",
-      "imageSrc": "skills/mySQL.png"
+      "imageSrc": "assets/mySQL.png"
     }
 ]

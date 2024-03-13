@@ -7,7 +7,7 @@ export const Education = () => {
         <section className={styles.container} id="education">
             <h2 className={styles.title}>Education</h2>
             <div className={styles.content}>
-                <img src={getImageUrl("education/UNLV.png")} alt="UNLV icon" className={styles.educationImage}/>
+                <img src={"assets/UNLV.png"} alt="UNLV icon" className={styles.educationImage}/>
                 <div className={styles.educationDetails}>
                     <h3>Bachelor's in Computer Science</h3>
                     <p>Minor in Mathematics</p>

@@ -8,7 +8,7 @@
                       "Leads discussion sections to reinforce concepts taught in lectures",
                       "Balances coursework and research with TA responsibilities",
                       "Collaborates with fellow TAs"],
-      "imageSrc": "history/unlv.png"
+      "imageSrc": "assets/unlv2.png"
     },
     {
       "role": "Computer Help Desk",
@@ -19,7 +19,7 @@
                       "Promptly diagnosed and rectified technical issues",
                       "Clarified technical solutions using accessible language",
                       "Escalated complex technical issues"],
-      "imageSrc": "history/unlv.png"
+      "imageSrc": "assets/unlv2.png"
     },
     {
       "role": "Code Coach",
@@ -32,6 +32,6 @@
         "Reviewed and gave feedback on students' code",
         "Guided students through coding challenges and troubleshooting problems"
       ],
-      "imageSrc": "history/coderSchool.png"
+      "imageSrc": "assets/coderSchool.png"
     }
   ]
