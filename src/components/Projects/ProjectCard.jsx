@@ -22,7 +22,7 @@ export const ProjectCard = ({project : {title, imageSrc, description, skills, de
             <div className={styles.links}>
                 {/*<a href={demo} className={styles.link}>Demo</a> <= Once demos are complete uncomment*/}
                 
-                <a href={source} className={styles.link}>Source</a>
+                {/*<a href={source} className={styles.link}>Source</a> <=Once source code is complete uncomment*/}
             </div>
         </div>
         );
